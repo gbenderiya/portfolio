@@ -22,4 +22,6 @@ Merged user details from the User Lookup Table to enrich analysis.
 
 📊 Visualization
 PowerBI
+![image](https://github.com/user-attachments/assets/b40e3110-b201-4b45-8751-a2a6fdc88bf6)
+
 
