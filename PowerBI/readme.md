@@ -20,10 +20,11 @@ Performed data preprocessing and transformation:
 - Categorized Action_Type for better filtering and aggregation.
 - Merged user details from the User Lookup Table to enrich analysis.
 
-📍 Clean Data: [BI_Performance_Logs_Clean.csv]()
+📍 Clean Data: [BI_Performance_Logs_Clean.csv](PowerBI/datasource/BI_Performance_Logs.csv)
 
 ## 📊 Visualization
 [PowerBI]()
-![image](https://github.com/user-attachments/assets/b40e3110-b201-4b45-8751-a2a6fdc88bf6)
+![image](https://github.com/user-attachments/assets/fe7d02c6-5bb6-4850-8989-3effdd2f7790)
+
 
 
