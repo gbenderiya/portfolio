@@ -1,0 +1,21 @@
+User_ID,FirstName,LastName,Unit,Department
+U001,Charlie,Williams,Social Media,Marketing
+U002,George,Martinez,Recruitment,HR
+U003,Ian,Williams,Recruitment,HR
+U004,Fiona,Johnson,Retail,Sales
+U005,Alice,Jones,B2B,Sales
+U006,Charlie,Williams,Recruitment,HR
+U007,Bob,Jones,SEO,Marketing
+U008,Charlie,Jones,Accounting,Finance
+U009,Julia,Lopez,Development,IT
+U010,Alice,Brown,Budgeting,Finance
+U011,Ian,Jones,SEO,Marketing
+U012,Alice,Martinez,Budgeting,Finance
+U013,Charlie,Williams,Accounting,Finance
+U014,George,Williams,B2B,Sales
+U015,Bob,Johnson,Social Media,Marketing
+U016,Alice,Brown,Recruitment,HR
+U017,Fiona,Davis,Social Media,Marketing
+U018,Charlie,Johnson,Infrastructure,IT
+U019,Julia,Lopez,Infrastructure,IT
+U020,Fiona,Brown,Retail,Sales

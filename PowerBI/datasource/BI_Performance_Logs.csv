@@ -1,0 +1,501 @@
+Timestamp,User_ID,Username,Action_Type,Report_Name,Query_Execution_Time (ms),CPU_Usage (%),Memory_Usage (GB),Error_Code,Status
+2024-01-01 09:28:00,U002,User_2,Login,,,55.47,13.93,,Success
+2024-01-01 21:23:00,U003,User_3,Query Execution,Financial Dashboard,1965.0,27.06,15.96,,Success
+2024-01-01 18:04:00,U019,User_19,Export,Marketing Insights,,52.35,7.42,E403,Failed
+2024-01-01 23:42:00,U002,User_2,Login,,,87.96,1.59,,Failed
+2024-01-01 20:51:00,U001,User_1,View Report,User Activity,,50.17,8.73,E408,Failed
+2024-01-02 03:05:00,U003,User_3,Export,Marketing Insights,,72.02,5.2,,Success
+2024-01-02 00:13:00,U013,User_13,Login,,,26.21,2.01,,Success
+2024-01-02 00:23:00,U017,User_17,Export,Sales Report,,18.71,11.43,E404,Failed
+2024-01-01 12:14:00,U009,User_9,Error,,,75.12,11.86,,Failed
+2024-01-02 07:03:00,U009,User_9,Export,Marketing Insights,,72.69,11.86,E404,Failed
+2024-01-02 05:45:00,U006,User_6,Error,,,44.03,9.54,,Success
+2024-01-02 01:35:00,U006,User_6,Query Execution,Performance Metrics,4795.0,33.74,8.28,E404,Failed
+2024-01-01 09:03:00,U004,User_4,Export,Performance Metrics,,85.78,3.96,,Success
+2024-01-01 13:52:00,U019,User_19,View Report,Financial Dashboard,,53.42,15.68,,Success
+2024-01-01 15:02:00,U002,User_2,Query Execution,Performance Metrics,483.0,68.36,13.04,,Success
+2024-01-01 21:23:00,U012,User_12,Query Execution,Financial Dashboard,1358.0,35.82,11.07,,Success
+2024-01-01 15:42:00,U018,User_18,Login,,,55.07,9.74,,Success
+2024-01-01 19:45:00,U002,User_2,Query Execution,Sales Report,4422.0,89.01,4.79,,Success
+2024-01-01 08:46:00,U012,User_12,Login,,,59.31,14.13,E404,Failed
+2024-01-01 15:15:00,U012,User_12,Export,Marketing Insights,,30.83,8.8,E500,Failed
+2024-01-01 12:27:00,U010,User_10,Query Execution,Marketing Insights,870.0,53.37,15.12,,Success
+2024-01-01 09:20:00,U013,User_13,Export,Performance Metrics,,14.34,1.09,,Success
+2024-01-01 16:04:00,U015,User_15,View Report,Sales Report,,33.68,12.32,E404,Failed
+2024-01-01 22:36:00,U015,User_15,Export,Performance Metrics,,14.57,4.36,,Success
+2024-01-01 14:12:00,U014,User_14,Login,,,55.52,8.56,E404,Failed
+2024-01-02 03:50:00,U003,User_3,Query Execution,User Activity,1884.0,50.95,11.64,E408,Failed
+2024-01-02 04:39:00,U008,User_8,Login,,,89.52,1.79,E403,Failed
+2024-01-01 10:36:00,U001,User_1,Login,,,78.28,14.14,E404,Failed
+2024-01-02 03:16:00,U001,User_1,Query Execution,Marketing Insights,2222.0,56.99,7.59,E500,Failed
+2024-01-01 22:30:00,U007,User_7,Export,Marketing Insights,,36.34,10.94,,Success
+2024-01-02 03:31:00,U010,User_10,Login,,,65.77,3.41,E404,Failed
+2024-01-02 07:24:00,U019,User_19,Query Execution,User Activity,2362.0,46.28,13.07,E408,Failed
+2024-01-01 14:29:00,U012,User_12,Login,,,50.61,14.37,,Success
+2024-01-02 02:59:00,U020,User_20,Login,,,19.34,15.92,E404,Failed
+2024-01-01 23:07:00,U012,User_12,View Report,Marketing Insights,,38.71,2.53,E408,Failed
+2024-01-01 09:44:00,U007,User_7,Query Execution,Performance Metrics,3393.0,62.95,9.24,,Failed
+2024-01-01 16:21:00,U006,User_6,Login,,,62.51,4.46,E408,Failed
+2024-01-01 16:43:00,U012,User_12,Login,,,34.81,1.13,E404,Failed
+2024-01-02 01:25:00,U016,User_16,Query Execution,Financial Dashboard,2609.0,39.28,14.43,E403,Failed
+2024-01-01 17:42:00,U007,User_7,View Report,Marketing Insights,,77.9,1.78,E404,Failed
+2024-01-01 12:19:00,U017,User_17,Export,Marketing Insights,,18.99,13.28,E500,Failed
+2024-01-01 22:41:00,U003,User_3,Error,,,86.95,6.24,,Success
+2024-01-01 11:57:00,U004,User_4,Export,User Activity,,26.38,15.41,E408,Failed
+2024-01-02 05:51:00,U006,User_6,View Report,User Activity,,81.03,4.26,,Success
+2024-01-01 22:18:00,U014,User_14,Error,,,79.68,8.61,E408,Failed
+2024-01-02 00:27:00,U017,User_17,View Report,Financial Dashboard,,28.62,15.28,,Success
+2024-01-02 04:21:00,U020,User_20,Query Execution,Sales Report,1451.0,18.72,3.48,,Success
+2024-01-01 09:37:00,U002,User_2,Login,,,74.49,9.36,E408,Failed
+2024-01-02 06:07:00,U010,User_10,Query Execution,Marketing Insights,3500.0,28.41,11.51,,Success
+2024-01-01 11:23:00,U016,User_16,Error,,,83.53,3.56,E408,Failed
+2024-01-02 05:28:00,U009,User_9,View Report,Performance Metrics,,45.57,10.54,,Failed
+2024-01-01 23:11:00,U014,User_14,Login,,,38.57,13.09,E500,Failed
+2024-01-01 16:39:00,U002,User_2,Export,User Activity,,33.56,7.67,,Success
+2024-01-01 23:42:00,U003,User_3,Error,,,15.36,15.7,,Success
+2024-01-02 07:31:00,U007,User_7,Query Execution,User Activity,3520.0,84.78,5.74,,Success
+2024-01-02 01:01:00,U004,User_4,View Report,Performance Metrics,,23.6,12.46,,Success
+2024-01-01 19:14:00,U012,User_12,Login,,,61.33,4.03,,Success
+2024-01-01 16:36:00,U004,User_4,Export,Performance Metrics,,86.02,15.48,E403,Failed
+2024-01-01 19:51:00,U005,User_5,Error,,,77.62,13.16,E408,Failed
+2024-01-01 20:26:00,U015,User_15,Export,Performance Metrics,,61.23,13.87,E500,Failed
+2024-01-02 04:56:00,U010,User_10,View Report,Performance Metrics,,12.84,5.67,,Success
+2024-01-01 08:35:00,U008,User_8,Login,,,84.47,10.5,,Success
+2024-01-01 19:15:00,U014,User_14,Query Execution,Marketing Insights,3180.0,37.86,15.34,,Failed
+2024-01-02 02:30:00,U015,User_15,Login,,,77.46,12.01,E403,Failed
+2024-01-01 18:19:00,U005,User_5,View Report,User Activity,,84.59,4.22,,Failed
+2024-01-01 19:24:00,U003,User_3,View Report,Financial Dashboard,,88.14,9.31,,Success
+2024-01-01 15:57:00,U018,User_18,Export,Marketing Insights,,59.57,12.95,,Success
+2024-01-01 22:16:00,U012,User_12,Error,,,19.79,8.06,E408,Failed
+2024-01-01 20:19:00,U013,User_13,Error,,,33.16,8.64,,Success
+2024-01-02 02:21:00,U010,User_10,Query Execution,Performance Metrics,4318.0,14.6,12.83,E404,Failed
+2024-01-01 20:37:00,U010,User_10,View Report,Financial Dashboard,,27.92,8.55,E408,Failed
+2024-01-02 01:00:00,U014,User_14,Error,,,47.31,13.28,,Success
+2024-01-01 13:33:00,U005,User_5,View Report,Performance Metrics,,50.79,5.69,,Success
+2024-01-02 06:40:00,U007,User_7,Query Execution,Sales Report,3805.0,47.45,7.81,E403,Failed
+2024-01-02 05:22:00,U020,User_20,Login,,,20.36,6.46,E404,Failed
+2024-01-01 17:10:00,U011,User_11,Login,,,69.01,9.22,,Success
+2024-01-01 14:08:00,U017,User_17,Error,,,60.3,2.99,,Success
+2024-01-02 07:08:00,U015,User_15,Export,Sales Report,,77.78,8.08,E403,Failed
+2024-01-01 08:42:00,U003,User_3,View Report,Marketing Insights,,27.08,12.57,,Success
+2024-01-01 22:11:00,U012,User_12,Query Execution,Financial Dashboard,2507.0,35.52,4.78,,Failed
+2024-01-02 06:22:00,U014,User_14,Login,,,86.2,4.52,,Success
+2024-01-02 07:09:00,U006,User_6,Export,Sales Report,,30.8,7.64,,Success
+2024-01-01 22:05:00,U009,User_9,Login,,,37.24,7.06,,Success
+2024-01-01 15:01:00,U012,User_12,Export,Financial Dashboard,,56.39,4.78,,Success
+2024-01-01 15:43:00,U013,User_13,Login,,,17.76,8.49,,Success
+2024-01-01 19:45:00,U008,User_8,Query Execution,Sales Report,4725.0,67.49,10.58,E500,Failed
+2024-01-02 01:13:00,U017,User_17,View Report,Marketing Insights,,42.85,2.6,,Success
+2024-01-01 20:53:00,U020,User_20,Export,Marketing Insights,,89.96,8.8,E404,Failed
+2024-01-01 11:12:00,U012,User_12,Login,,,36.77,3.77,,Success
+2024-01-01 22:03:00,U018,User_18,View Report,Financial Dashboard,,76.82,10.04,E404,Failed
+2024-01-01 10:52:00,U019,User_19,Error,,,83.72,12.13,,Success
+2024-01-01 20:20:00,U020,User_20,Error,,,25.61,3.99,E500,Failed
+2024-01-02 06:00:00,U013,User_13,Login,,,34.11,12.56,,Success
+2024-01-01 13:57:00,U009,User_9,View Report,User Activity,,13.87,5.02,E500,Failed
+2024-01-01 11:08:00,U016,User_16,Query Execution,Sales Report,235.0,77.55,8.37,,Success
+2024-01-01 10:59:00,U019,User_19,Error,,,38.23,11.82,E408,Failed
+2024-01-01 23:40:00,U011,User_11,Query Execution,Financial Dashboard,4312.0,50.1,8.31,E404,Failed
+2024-01-01 17:53:00,U009,User_9,Error,,,38.09,4.54,,Success
+2024-01-01 17:38:00,U006,User_6,Error,,,64.56,15.5,,Success
+2024-01-01 08:19:00,U005,User_5,View Report,Performance Metrics,,19.14,14.39,,Success
+2024-01-01 15:04:00,U009,User_9,View Report,Financial Dashboard,,19.71,5.17,E500,Failed
+2024-01-01 15:59:00,U007,User_7,View Report,User Activity,,83.88,15.32,E500,Failed
+2024-01-01 11:48:00,U015,User_15,Error,,,33.59,6.6,,Success
+2024-01-01 18:28:00,U006,User_6,Export,Financial Dashboard,,12.45,5.18,,Success
+2024-01-01 13:43:00,U020,User_20,Login,,,72.18,12.75,E500,Failed
+2024-01-02 05:19:00,U019,User_19,Error,,,78.28,6.14,E500,Failed
+2024-01-02 07:06:00,U017,User_17,Query Execution,Marketing Insights,2470.0,46.96,11.28,,Success
+2024-01-01 15:10:00,U018,User_18,Query Execution,Financial Dashboard,2019.0,69.07,13.46,E408,Failed
+2024-01-01 14:03:00,U016,User_16,Export,Performance Metrics,,64.78,14.58,E500,Failed
+2024-01-01 15:32:00,U010,User_10,Export,Marketing Insights,,78.21,12.7,,Success
+2024-01-01 13:55:00,U019,User_19,Export,Performance Metrics,,44.19,9.74,E408,Failed
+2024-01-01 11:47:00,U016,User_16,Error,,,47.46,13.94,,Success
+2024-01-01 08:37:00,U010,User_10,Export,Sales Report,,72.74,13.19,E404,Failed
+2024-01-01 21:22:00,U007,User_7,View Report,User Activity,,29.43,8.97,E500,Failed
+2024-01-02 02:10:00,U020,User_20,Query Execution,Marketing Insights,605.0,71.07,11.33,,Success
+2024-01-01 19:18:00,U003,User_3,View Report,Marketing Insights,,66.22,6.26,E408,Failed
+2024-01-01 11:24:00,U010,User_10,Export,Financial Dashboard,,44.65,11.49,,Success
+2024-01-01 10:18:00,U019,User_19,Login,,,61.29,5.39,,Success
+2024-01-01 13:36:00,U015,User_15,Query Execution,Marketing Insights,2338.0,84.17,3.7,,Success
+2024-01-02 03:41:00,U007,User_7,Error,,,45.77,15.38,,Success
+2024-01-01 08:56:00,U015,User_15,Query Execution,Financial Dashboard,2822.0,33.33,10.78,,Success
+2024-01-01 13:34:00,U018,User_18,Query Execution,Marketing Insights,1666.0,17.86,13.65,E404,Failed
+2024-01-01 21:44:00,U009,User_9,Query Execution,Performance Metrics,1890.0,80.99,2.1,E403,Failed
+2024-01-01 14:51:00,U014,User_14,Error,,,88.85,7.21,,Success
+2024-01-02 03:19:00,U006,User_6,Error,,,11.97,13.93,,Success
+2024-01-01 16:03:00,U007,User_7,Query Execution,Financial Dashboard,1349.0,70.27,2.84,E404,Failed
+2024-01-01 17:29:00,U012,User_12,View Report,Marketing Insights,,67.54,11.34,E404,Failed
+2024-01-01 11:57:00,U004,User_4,Query Execution,Performance Metrics,2912.0,63.2,9.63,,Success
+2024-01-02 06:17:00,U011,User_11,View Report,Financial Dashboard,,74.94,4.89,,Success
+2024-01-01 21:55:00,U012,User_12,Export,User Activity,,82.67,2.15,,Success
+2024-01-01 17:59:00,U006,User_6,Export,Performance Metrics,,40.61,9.72,,Success
+2024-01-01 23:59:00,U006,User_6,Error,,,62.44,8.87,,Success
+2024-01-01 21:04:00,U009,User_9,View Report,Performance Metrics,,63.07,8.4,,Success
+2024-01-02 00:29:00,U001,User_1,Error,,,26.81,1.44,,Success
+2024-01-01 22:57:00,U002,User_2,Export,Performance Metrics,,20.59,2.49,,Success
+2024-01-02 04:01:00,U002,User_2,View Report,Financial Dashboard,,35.74,15.75,,Success
+2024-01-02 03:24:00,U005,User_5,Login,,,56.67,13.63,,Success
+2024-01-01 22:47:00,U002,User_2,Login,,,18.69,12.56,E408,Failed
+2024-01-01 10:13:00,U011,User_11,Error,,,72.06,14.98,E404,Failed
+2024-01-01 08:03:00,U005,User_5,Query Execution,Sales Report,1513.0,63.61,15.59,E404,Failed
+2024-01-01 10:13:00,U018,User_18,Query Execution,Marketing Insights,3838.0,24.44,10.43,,Success
+2024-01-01 20:58:00,U020,User_20,Error,,,53.33,1.28,,Success
+2024-01-01 10:44:00,U011,User_11,Login,,,60.94,9.12,,Success
+2024-01-01 10:41:00,U006,User_6,Error,,,57.36,3.95,,Success
+2024-01-01 16:31:00,U002,User_2,Query Execution,Performance Metrics,1490.0,62.76,3.14,,Success
+2024-01-01 12:29:00,U004,User_4,Query Execution,Sales Report,1955.0,84.36,8.54,E408,Failed
+2024-01-01 22:44:00,U020,User_20,Query Execution,Marketing Insights,3257.0,28.58,9.64,E408,Failed
+2024-01-01 15:53:00,U006,User_6,Login,,,61.73,4.82,E500,Failed
+2024-01-01 20:38:00,U005,User_5,Export,Performance Metrics,,28.4,9.7,,Success
+2024-01-02 07:59:00,U013,User_13,Export,Marketing Insights,,73.63,9.72,E408,Failed
+2024-01-01 21:17:00,U002,User_2,Error,,,57.44,4.12,,Success
+2024-01-01 15:59:00,U020,User_20,Export,Performance Metrics,,16.38,5.14,,Failed
+2024-01-01 12:23:00,U010,User_10,View Report,User Activity,,86.22,2.04,,Success
+2024-01-01 16:16:00,U013,User_13,Export,Financial Dashboard,,56.2,14.92,,Success
+2024-01-01 17:04:00,U002,User_2,Export,Performance Metrics,,52.09,12.47,,Failed
+2024-01-02 05:38:00,U005,User_5,Export,Marketing Insights,,76.73,10.56,,Success
+2024-01-01 10:05:00,U018,User_18,Export,Marketing Insights,,56.79,7.88,E403,Failed
+2024-01-01 19:42:00,U010,User_10,View Report,Performance Metrics,,60.33,13.49,E408,Failed
+2024-01-01 15:36:00,U002,User_2,Query Execution,Financial Dashboard,751.0,72.62,4.66,,Success
+2024-01-02 03:48:00,U008,User_8,Export,Sales Report,,33.61,1.67,,Success
+2024-01-01 21:29:00,U010,User_10,Error,,,54.2,12.29,,Success
+2024-01-01 08:25:00,U016,User_16,Login,,,53.55,3.76,E403,Failed
+2024-01-02 06:28:00,U008,User_8,Login,,,29.85,12.13,,Success
+2024-01-01 22:51:00,U019,User_19,Query Execution,Sales Report,3311.0,84.19,2.52,,Success
+2024-01-01 14:05:00,U010,User_10,Login,,,81.75,12.65,,Success
+2024-01-01 23:55:00,U013,User_13,Export,Sales Report,,17.89,5.91,,Success
+2024-01-01 14:31:00,U014,User_14,Error,,,48.1,3.39,,Success
+2024-01-01 12:52:00,U013,User_13,Query Execution,Sales Report,744.0,36.63,5.14,,Success
+2024-01-01 20:34:00,U012,User_12,Export,Financial Dashboard,,79.85,2.31,,Success
+2024-01-01 09:50:00,U003,User_3,Login,,,85.44,10.09,E403,Failed
+2024-01-01 08:09:00,U019,User_19,Login,,,39.31,7.22,E500,Failed
+2024-01-01 12:31:00,U014,User_14,Error,,,15.35,12.88,E403,Failed
+2024-01-01 08:44:00,U014,User_14,View Report,Performance Metrics,,57.01,14.66,E404,Failed
+2024-01-01 14:52:00,U015,User_15,Error,,,11.62,11.26,,Success
+2024-01-01 11:21:00,U001,User_1,Login,,,61.37,7.77,E500,Failed
+2024-01-01 11:36:00,U006,User_6,View Report,Sales Report,,36.9,5.11,,Success
+2024-01-02 02:21:00,U010,User_10,View Report,User Activity,,80.55,4.7,,Success
+2024-01-01 11:32:00,U004,User_4,View Report,User Activity,,21.12,15.16,,Success
+2024-01-01 16:22:00,U015,User_15,Error,,,89.25,11.7,,Success
+2024-01-01 18:20:00,U008,User_8,Login,,,29.72,10.26,,Success
+2024-01-02 06:58:00,U007,User_7,Query Execution,Sales Report,2435.0,24.12,7.35,E500,Failed
+2024-01-01 21:52:00,U020,User_20,Error,,,84.7,8.04,E404,Failed
+2024-01-01 17:37:00,U014,User_14,Login,,,60.54,5.17,E404,Failed
+2024-01-02 07:40:00,U018,User_18,Error,,,59.22,15.99,,Success
+2024-01-02 05:49:00,U004,User_4,View Report,Performance Metrics,,59.55,1.46,,Success
+2024-01-02 05:46:00,U020,User_20,Query Execution,User Activity,162.0,52.0,11.63,,Success
+2024-01-01 19:49:00,U019,User_19,Export,Financial Dashboard,,67.52,14.62,,Success
+2024-01-01 13:33:00,U015,User_15,Login,,,11.1,14.06,,Success
+2024-01-02 02:26:00,U015,User_15,Login,,,40.25,12.33,,Success
+2024-01-02 06:31:00,U006,User_6,Error,,,89.79,7.15,,Success
+2024-01-01 17:28:00,U005,User_5,Query Execution,Marketing Insights,409.0,83.76,8.03,,Success
+2024-01-02 04:57:00,U012,User_12,Error,,,31.79,13.76,,Success
+2024-01-01 17:06:00,U005,User_5,Login,,,71.49,3.9,E408,Failed
+2024-01-01 14:56:00,U012,User_12,Export,Marketing Insights,,50.56,2.61,E404,Failed
+2024-01-02 02:08:00,U016,User_16,Error,,,84.18,1.92,,Success
+2024-01-01 11:33:00,U005,User_5,Error,,,63.15,14.64,E408,Failed
+2024-01-01 22:07:00,U006,User_6,View Report,Financial Dashboard,,23.65,2.78,E500,Failed
+2024-01-02 07:34:00,U013,User_13,Query Execution,User Activity,2545.0,22.07,6.53,E408,Failed
+2024-01-02 07:37:00,U017,User_17,Export,Marketing Insights,,34.93,13.99,,Success
+2024-01-02 07:33:00,U002,User_2,Login,,,59.06,4.34,E404,Failed
+2024-01-01 11:45:00,U013,User_13,Query Execution,Marketing Insights,2227.0,45.71,14.53,,Success
+2024-01-01 08:29:00,U014,User_14,View Report,Marketing Insights,,35.99,13.72,E408,Failed
+2024-01-01 11:17:00,U003,User_3,Query Execution,User Activity,3957.0,60.89,11.74,,Success
+2024-01-01 18:23:00,U011,User_11,Export,User Activity,,76.62,9.03,,Success
+2024-01-02 04:14:00,U013,User_13,Query Execution,User Activity,735.0,44.3,6.39,,Success
+2024-01-02 07:30:00,U001,User_1,Error,,,22.88,11.88,E403,Failed
+2024-01-02 04:01:00,U006,User_6,Login,,,79.53,10.37,,Failed
+2024-01-01 19:55:00,U002,User_2,Error,,,83.39,10.67,,Success
+2024-01-01 21:40:00,U007,User_7,Error,,,82.98,12.12,,Success
+2024-01-01 13:25:00,U001,User_1,Export,Performance Metrics,,50.22,2.0,E500,Failed
+2024-01-02 05:21:00,U009,User_9,Export,Financial Dashboard,,60.96,5.03,E500,Failed
+2024-01-02 01:31:00,U018,User_18,Login,,,18.43,5.71,E408,Failed
+2024-01-01 08:39:00,U020,User_20,Export,Marketing Insights,,50.11,10.07,,Success
+2024-01-02 02:12:00,U006,User_6,Query Execution,Financial Dashboard,308.0,44.69,2.32,,Success
+2024-01-01 17:30:00,U004,User_4,Query Execution,Sales Report,369.0,74.27,3.46,E500,Failed
+2024-01-01 11:53:00,U013,User_13,Export,User Activity,,88.7,3.7,,Success
+2024-01-02 07:26:00,U013,User_13,Login,,,59.29,13.16,E403,Failed
+2024-01-02 07:18:00,U020,User_20,Query Execution,Performance Metrics,3275.0,35.01,11.22,E403,Failed
+2024-01-01 11:52:00,U005,User_5,View Report,Performance Metrics,,52.89,11.95,,Failed
+2024-01-02 05:38:00,U004,User_4,Query Execution,User Activity,289.0,84.89,12.59,E500,Failed
+2024-01-01 18:32:00,U008,User_8,Error,,,82.27,1.94,,Success
+2024-01-02 07:29:00,U013,User_13,View Report,Financial Dashboard,,16.36,13.0,,Success
+2024-01-01 15:26:00,U012,User_12,Error,,,52.06,4.11,E404,Failed
+2024-01-01 12:17:00,U014,User_14,Error,,,56.33,9.47,E408,Failed
+2024-01-02 03:29:00,U018,User_18,Query Execution,Sales Report,4814.0,76.08,11.56,,Success
+2024-01-01 16:15:00,U006,User_6,Export,Financial Dashboard,,70.76,2.42,,Success
+2024-01-01 09:56:00,U019,User_19,Query Execution,Sales Report,1040.0,14.44,10.0,E408,Failed
+2024-01-02 02:47:00,U003,User_3,Export,Marketing Insights,,59.79,10.06,,Success
+2024-01-02 05:58:00,U005,User_5,Export,Performance Metrics,,10.61,13.54,,Success
+2024-01-01 15:11:00,U005,User_5,Export,User Activity,,40.37,12.06,,Success
+2024-01-02 03:46:00,U020,User_20,Export,Performance Metrics,,88.04,11.3,,Success
+2024-01-01 21:24:00,U020,User_20,Error,,,78.54,5.71,E404,Failed
+2024-01-01 18:17:00,U004,User_4,Error,,,61.68,14.54,,Success
+2024-01-01 18:35:00,U005,User_5,Query Execution,Sales Report,825.0,83.8,6.11,E408,Failed
+2024-01-01 21:10:00,U009,User_9,Export,Sales Report,,23.77,10.69,,Failed
+2024-01-01 16:06:00,U014,User_14,View Report,User Activity,,78.12,5.44,,Success
+2024-01-02 04:48:00,U011,User_11,View Report,Marketing Insights,,12.59,4.69,E500,Failed
+2024-01-01 10:18:00,U012,User_12,Error,,,24.88,15.92,E403,Failed
+2024-01-02 07:41:00,U002,User_2,View Report,Sales Report,,32.51,9.9,E404,Failed
+2024-01-01 17:22:00,U019,User_19,Login,,,27.85,12.47,,Success
+2024-01-01 17:29:00,U014,User_14,Login,,,33.16,11.64,E408,Failed
+2024-01-01 20:59:00,U004,User_4,Login,,,29.33,14.6,E404,Failed
+2024-01-01 11:18:00,U014,User_14,View Report,Sales Report,,53.62,6.69,E500,Failed
+2024-01-01 21:43:00,U008,User_8,Login,,,10.3,3.29,E403,Failed
+2024-01-02 03:53:00,U014,User_14,Login,,,71.69,13.88,E500,Failed
+2024-01-01 17:10:00,U011,User_11,Error,,,76.2,8.67,E404,Failed
+2024-01-01 12:21:00,U014,User_14,Login,,,43.91,2.38,E408,Failed
+2024-01-01 08:48:00,U020,User_20,Login,,,47.68,10.34,,Success
+2024-01-01 23:14:00,U001,User_1,Export,Financial Dashboard,,10.86,14.62,E500,Failed
+2024-01-02 02:42:00,U018,User_18,Export,Performance Metrics,,70.52,13.28,E408,Failed
+2024-01-02 06:59:00,U018,User_18,Error,,,41.73,9.17,E408,Failed
+2024-01-01 08:05:00,U010,User_10,Login,,,50.5,1.65,E404,Failed
+2024-01-02 00:57:00,U020,User_20,View Report,User Activity,,27.0,2.79,E500,Failed
+2024-01-01 15:46:00,U001,User_1,Login,,,26.68,6.63,,Success
+2024-01-01 17:12:00,U014,User_14,Error,,,78.32,10.5,E408,Failed
+2024-01-01 22:04:00,U003,User_3,Export,Marketing Insights,,41.9,8.45,E408,Failed
+2024-01-01 17:39:00,U017,User_17,Query Execution,User Activity,4651.0,81.69,7.7,E403,Failed
+2024-01-01 21:14:00,U016,User_16,Error,,,35.66,2.29,,Failed
+2024-01-01 10:50:00,U013,User_13,Error,,,18.41,5.8,,Success
+2024-01-01 23:55:00,U012,User_12,Export,Financial Dashboard,,69.52,3.6,E404,Failed
+2024-01-01 12:47:00,U004,User_4,Export,Marketing Insights,,50.99,6.46,E404,Failed
+2024-01-01 18:17:00,U019,User_19,Query Execution,Performance Metrics,3714.0,12.13,3.34,,Success
+2024-01-02 00:53:00,U005,User_5,Error,,,78.43,4.32,E403,Failed
+2024-01-01 14:43:00,U018,User_18,Query Execution,Financial Dashboard,4028.0,20.96,5.95,,Success
+2024-01-02 02:30:00,U013,User_13,Query Execution,Sales Report,4622.0,84.09,2.28,E408,Failed
+2024-01-01 18:04:00,U007,User_7,Export,Marketing Insights,,52.41,5.48,E408,Failed
+2024-01-01 19:32:00,U005,User_5,Login,,,66.41,7.02,,Success
+2024-01-02 01:08:00,U001,User_1,View Report,User Activity,,41.38,5.32,E404,Failed
+2024-01-01 22:02:00,U015,User_15,View Report,Sales Report,,23.69,13.55,,Success
+2024-01-01 14:49:00,U017,User_17,Query Execution,Financial Dashboard,2525.0,62.36,10.81,E404,Failed
+2024-01-01 23:11:00,U019,User_19,Login,,,49.95,9.05,E500,Failed
+2024-01-01 21:23:00,U020,User_20,Export,User Activity,,87.58,7.9,E404,Failed
+2024-01-01 22:35:00,U004,User_4,Error,,,64.52,6.9,,Failed
+2024-01-01 17:23:00,U018,User_18,Export,Sales Report,,73.22,11.94,,Success
+2024-01-01 22:53:00,U014,User_14,View Report,User Activity,,27.0,7.2,,Success
+2024-01-02 07:40:00,U007,User_7,View Report,Performance Metrics,,62.55,14.46,,Success
+2024-01-01 14:59:00,U006,User_6,View Report,Sales Report,,59.11,15.5,,Success
+2024-01-01 21:54:00,U003,User_3,View Report,Performance Metrics,,44.68,9.12,E408,Failed
+2024-01-01 13:31:00,U011,User_11,Login,,,46.74,4.86,,Success
+2024-01-01 13:46:00,U013,User_13,Export,Financial Dashboard,,65.65,1.63,,Success
+2024-01-01 21:05:00,U004,User_4,Query Execution,Sales Report,4442.0,77.72,9.81,,Success
+2024-01-02 06:48:00,U018,User_18,Login,,,27.48,3.02,E403,Failed
+2024-01-01 22:03:00,U016,User_16,Error,,,18.62,13.2,E403,Failed
+2024-01-01 21:04:00,U007,User_7,Error,,,68.44,14.2,E500,Failed
+2024-01-01 23:21:00,U018,User_18,View Report,Marketing Insights,,33.63,15.45,,Success
+2024-01-01 14:35:00,U012,User_12,Error,,,16.46,9.78,E403,Failed
+2024-01-02 06:46:00,U016,User_16,Error,,,10.76,10.52,E500,Failed
+2024-01-01 12:43:00,U006,User_6,Login,,,57.68,2.81,E403,Failed
+2024-01-01 18:39:00,U019,User_19,Error,,,58.8,7.35,E408,Failed
+2024-01-01 13:07:00,U012,User_12,View Report,Marketing Insights,,44.85,12.47,,Success
+2024-01-02 02:40:00,U008,User_8,Export,Marketing Insights,,18.58,13.48,E500,Failed
+2024-01-01 08:26:00,U011,User_11,Error,,,43.99,10.79,,Success
+2024-01-01 10:08:00,U019,User_19,Login,,,82.09,15.47,,Failed
+2024-01-02 00:19:00,U011,User_11,Error,,,28.19,1.07,,Success
+2024-01-01 22:40:00,U014,User_14,Error,,,63.73,4.25,E403,Failed
+2024-01-01 10:17:00,U017,User_17,Query Execution,Performance Metrics,260.0,48.56,10.62,E408,Failed
+2024-01-01 12:10:00,U015,User_15,Query Execution,Financial Dashboard,3191.0,78.19,3.4,E403,Failed
+2024-01-02 02:48:00,U017,User_17,Error,,,39.09,13.96,,Success
+2024-01-02 04:52:00,U010,User_10,Query Execution,Marketing Insights,4240.0,49.21,3.75,,Success
+2024-01-01 13:49:00,U004,User_4,Login,,,82.81,9.02,E408,Failed
+2024-01-01 13:02:00,U002,User_2,Error,,,69.65,14.99,,Success
+2024-01-01 09:56:00,U019,User_19,View Report,Sales Report,,65.47,14.7,E404,Failed
+2024-01-02 04:09:00,U009,User_9,Error,,,46.18,6.61,E404,Failed
+2024-01-01 10:41:00,U009,User_9,Export,Performance Metrics,,21.95,11.08,E408,Failed
+2024-01-02 02:45:00,U020,User_20,Login,,,78.39,8.52,E403,Failed
+2024-01-01 08:18:00,U001,User_1,Login,,,29.26,1.62,,Success
+2024-01-01 12:14:00,U005,User_5,Error,,,23.89,4.79,E500,Failed
+2024-01-01 23:55:00,U019,User_19,Export,Performance Metrics,,14.41,13.7,E408,Failed
+2024-01-02 05:54:00,U009,User_9,View Report,User Activity,,15.12,10.76,,Success
+2024-01-01 22:12:00,U012,User_12,Export,Financial Dashboard,,63.72,10.43,,Success
+2024-01-02 06:37:00,U016,User_16,Login,,,65.94,9.55,,Success
+2024-01-01 17:58:00,U020,User_20,View Report,Financial Dashboard,,28.38,5.3,,Success
+2024-01-02 02:12:00,U005,User_5,Export,Marketing Insights,,85.9,7.35,E500,Failed
+2024-01-01 20:55:00,U015,User_15,Query Execution,Financial Dashboard,498.0,48.57,9.62,,Success
+2024-01-01 13:51:00,U008,User_8,View Report,Financial Dashboard,,82.56,7.78,,Success
+2024-01-01 12:30:00,U014,User_14,Export,User Activity,,13.28,3.41,E404,Failed
+2024-01-02 02:22:00,U002,User_2,Export,User Activity,,37.13,8.04,,Failed
+2024-01-02 06:33:00,U007,User_7,View Report,Sales Report,,52.99,12.04,,Success
+2024-01-01 19:42:00,U004,User_4,Error,,,31.75,7.9,E404,Failed
+2024-01-01 21:49:00,U007,User_7,Login,,,32.34,2.98,,Success
+2024-01-01 20:28:00,U018,User_18,Export,Marketing Insights,,76.78,6.79,E500,Failed
+2024-01-01 10:51:00,U017,User_17,View Report,Performance Metrics,,41.47,5.95,E404,Failed
+2024-01-01 18:03:00,U005,User_5,Export,User Activity,,25.64,13.58,,Success
+2024-01-01 14:07:00,U019,User_19,View Report,Performance Metrics,,18.35,12.2,,Success
+2024-01-02 06:39:00,U010,User_10,View Report,Performance Metrics,,89.86,6.57,E403,Failed
+2024-01-02 04:01:00,U012,User_12,Query Execution,Sales Report,849.0,72.99,10.49,E408,Failed
+2024-01-01 21:23:00,U016,User_16,View Report,Performance Metrics,,82.11,4.56,,Success
+2024-01-02 00:34:00,U015,User_15,Query Execution,Financial Dashboard,2315.0,18.23,1.69,,Success
+2024-01-01 17:53:00,U006,User_6,Query Execution,Performance Metrics,3388.0,78.39,7.13,E404,Failed
+2024-01-01 10:48:00,U002,User_2,Export,Sales Report,,34.7,9.77,,Success
+2024-01-02 02:33:00,U019,User_19,Export,User Activity,,32.47,9.58,,Success
+2024-01-01 10:08:00,U008,User_8,View Report,Financial Dashboard,,34.89,10.72,,Success
+2024-01-01 21:32:00,U018,User_18,Query Execution,Sales Report,1531.0,34.88,2.26,,Success
+2024-01-01 19:06:00,U020,User_20,Error,,,14.17,11.44,,Success
+2024-01-02 06:31:00,U017,User_17,Error,,,36.18,6.26,,Failed
+2024-01-02 03:34:00,U011,User_11,Login,,,55.84,13.55,,Success
+2024-01-01 20:51:00,U010,User_10,Query Execution,Performance Metrics,448.0,34.41,8.72,,Success
+2024-01-01 09:22:00,U011,User_11,Export,User Activity,,32.44,2.49,,Success
+2024-01-02 00:34:00,U016,User_16,Login,,,34.95,15.49,,Success
+2024-01-01 09:13:00,U018,User_18,Error,,,32.85,6.01,E404,Failed
+2024-01-01 19:45:00,U010,User_10,View Report,Performance Metrics,,11.48,6.58,E500,Failed
+2024-01-01 11:59:00,U005,User_5,View Report,Sales Report,,18.57,4.69,,Success
+2024-01-01 18:37:00,U015,User_15,Error,,,14.47,7.78,,Success
+2024-01-02 06:19:00,U010,User_10,Error,,,78.23,8.38,E500,Failed
+2024-01-01 22:23:00,U008,User_8,Query Execution,Marketing Insights,4593.0,35.76,10.09,E500,Failed
+2024-01-02 05:04:00,U005,User_5,Error,,,68.57,6.01,,Success
+2024-01-02 06:03:00,U001,User_1,Login,,,60.52,9.7,,Success
+2024-01-01 19:20:00,U002,User_2,Error,,,89.27,10.27,,Failed
+2024-01-01 11:35:00,U014,User_14,Query Execution,Sales Report,1067.0,44.21,6.9,,Success
+2024-01-02 03:44:00,U004,User_4,View Report,Financial Dashboard,,18.6,8.05,E403,Failed
+2024-01-02 05:15:00,U001,User_1,Export,Financial Dashboard,,25.85,11.82,E404,Failed
+2024-01-01 15:46:00,U018,User_18,Query Execution,Performance Metrics,688.0,81.93,1.51,E408,Failed
+2024-01-01 20:51:00,U006,User_6,View Report,Performance Metrics,,81.87,14.51,,Success
+2024-01-01 16:55:00,U010,User_10,Export,Financial Dashboard,,13.61,5.49,,Success
+2024-01-01 11:45:00,U016,User_16,Query Execution,Sales Report,132.0,76.83,4.98,,Success
+2024-01-02 04:31:00,U008,User_8,View Report,User Activity,,23.31,4.42,E500,Failed
+2024-01-01 16:03:00,U001,User_1,Export,Sales Report,,81.25,6.78,,Success
+2024-01-01 19:30:00,U016,User_16,Query Execution,User Activity,898.0,29.29,4.45,,Success
+2024-01-02 04:07:00,U014,User_14,Error,,,69.62,6.83,E500,Failed
+2024-01-02 06:51:00,U010,User_10,Error,,,26.17,2.62,,Success
+2024-01-01 13:09:00,U017,User_17,Error,,,89.49,11.82,E408,Failed
+2024-01-01 14:57:00,U007,User_7,Query Execution,Sales Report,4367.0,58.29,12.9,E408,Failed
+2024-01-01 20:24:00,U012,User_12,Login,,,17.17,3.23,,Success
+2024-01-01 23:18:00,U002,User_2,Error,,,29.92,4.04,,Success
+2024-01-02 02:59:00,U007,User_7,Error,,,51.96,7.89,E408,Failed
+2024-01-01 18:53:00,U012,User_12,Query Execution,Marketing Insights,2751.0,86.7,13.97,E408,Failed
+2024-01-02 04:08:00,U016,User_16,View Report,Financial Dashboard,,33.18,14.14,E403,Failed
+2024-01-02 00:59:00,U005,User_5,Login,,,23.38,12.0,E408,Failed
+2024-01-01 18:13:00,U002,User_2,Query Execution,Financial Dashboard,3961.0,27.08,8.89,,Failed
+2024-01-01 11:47:00,U004,User_4,Error,,,85.02,12.8,E500,Failed
+2024-01-02 06:14:00,U016,User_16,Export,Performance Metrics,,15.51,7.83,,Success
+2024-01-01 17:52:00,U001,User_1,Export,Sales Report,,66.91,1.82,,Success
+2024-01-01 20:18:00,U006,User_6,Login,,,45.75,13.8,E500,Failed
+2024-01-01 11:19:00,U007,User_7,Query Execution,Performance Metrics,721.0,72.46,13.66,,Failed
+2024-01-02 02:09:00,U020,User_20,View Report,Performance Metrics,,56.2,7.3,,Success
+2024-01-02 07:35:00,U019,User_19,Login,,,17.26,5.3,,Success
+2024-01-01 14:15:00,U002,User_2,View Report,Sales Report,,79.2,3.47,,Success
+2024-01-01 09:09:00,U006,User_6,Query Execution,User Activity,2325.0,59.57,8.79,E404,Failed
+2024-01-01 23:05:00,U017,User_17,View Report,User Activity,,53.79,5.28,E403,Failed
+2024-01-02 05:26:00,U018,User_18,Error,,,26.57,5.91,E408,Failed
+2024-01-02 07:00:00,U013,User_13,Error,,,18.45,15.28,,Success
+2024-01-01 18:54:00,U010,User_10,Error,,,37.36,5.79,E500,Failed
+2024-01-01 16:07:00,U008,User_8,Query Execution,Performance Metrics,1710.0,75.57,7.64,E403,Failed
+2024-01-01 08:57:00,U016,User_16,Login,,,16.5,8.95,,Failed
+2024-01-01 20:18:00,U017,User_17,Login,,,35.51,6.77,,Success
+2024-01-01 18:05:00,U001,User_1,Export,Sales Report,,87.34,13.52,E408,Failed
+2024-01-02 01:31:00,U014,User_14,Export,User Activity,,56.11,12.99,E403,Failed
+2024-01-01 21:12:00,U016,User_16,Error,,,52.01,14.56,,Success
+2024-01-01 08:06:00,U007,User_7,Query Execution,User Activity,1646.0,69.37,9.1,,Success
+2024-01-01 20:38:00,U016,User_16,Error,,,60.11,1.12,E404,Failed
+2024-01-01 23:48:00,U013,User_13,Export,Financial Dashboard,,28.55,7.13,E408,Failed
+2024-01-01 18:22:00,U014,User_14,Export,Performance Metrics,,19.04,14.72,E403,Failed
+2024-01-01 13:25:00,U003,User_3,View Report,User Activity,,59.47,4.27,,Success
+2024-01-02 01:14:00,U015,User_15,Login,,,36.3,1.94,E404,Failed
+2024-01-01 12:22:00,U011,User_11,Error,,,51.02,3.08,,Failed
+2024-01-01 09:16:00,U020,User_20,Error,,,54.76,8.11,,Success
+2024-01-02 00:53:00,U002,User_2,Error,,,58.63,4.31,E404,Failed
+2024-01-02 01:33:00,U017,User_17,View Report,User Activity,,66.44,2.1,E500,Failed
+2024-01-02 01:49:00,U001,User_1,Login,,,89.13,2.35,,Success
+2024-01-02 02:35:00,U013,User_13,Login,,,82.6,15.63,E408,Failed
+2024-01-01 15:35:00,U010,User_10,View Report,Financial Dashboard,,83.89,15.67,E500,Failed
+2024-01-02 03:50:00,U006,User_6,Export,User Activity,,54.13,1.47,,Success
+2024-01-01 10:52:00,U003,User_3,Error,,,18.66,14.22,,Success
+2024-01-02 01:24:00,U015,User_15,Error,,,18.1,13.93,E408,Failed
+2024-01-01 10:30:00,U013,User_13,Login,,,44.94,7.86,,Success
+2024-01-01 14:24:00,U006,User_6,View Report,User Activity,,89.21,9.56,,Success
+2024-01-02 07:49:00,U006,User_6,View Report,Marketing Insights,,38.11,5.43,,Success
+2024-01-01 21:30:00,U003,User_3,Query Execution,Financial Dashboard,1816.0,41.83,15.01,E404,Failed
+2024-01-01 08:41:00,U014,User_14,Error,,,78.45,5.25,,Success
+2024-01-01 09:52:00,U014,User_14,Export,Financial Dashboard,,30.45,6.89,,Success
+2024-01-02 07:13:00,U019,User_19,Export,User Activity,,32.01,2.02,E408,Failed
+2024-01-01 14:35:00,U017,User_17,View Report,User Activity,,86.29,7.73,E403,Failed
+2024-01-01 20:03:00,U012,User_12,Export,Financial Dashboard,,89.02,13.72,E404,Failed
+2024-01-01 20:50:00,U004,User_4,Error,,,60.47,3.0,,Success
+2024-01-01 08:33:00,U008,User_8,Login,,,45.76,4.02,,Success
+2024-01-01 14:04:00,U001,User_1,Export,Sales Report,,80.89,4.95,E403,Failed
+2024-01-02 01:57:00,U017,User_17,Error,,,42.17,13.96,E408,Failed
+2024-01-01 13:06:00,U014,User_14,Export,Financial Dashboard,,64.2,14.23,E403,Failed
+2024-01-01 18:53:00,U001,User_1,Query Execution,Financial Dashboard,1876.0,26.44,3.67,,Failed
+2024-01-01 22:15:00,U016,User_16,Query Execution,Financial Dashboard,1951.0,85.66,5.54,,Success
+2024-01-01 21:18:00,U006,User_6,View Report,Sales Report,,26.23,14.89,,Success
+2024-01-01 12:37:00,U003,User_3,Error,,,80.63,7.97,,Success
+2024-01-01 22:56:00,U007,User_7,Export,Marketing Insights,,19.85,8.4,E500,Failed
+2024-01-01 14:25:00,U014,User_14,Export,Marketing Insights,,51.47,9.28,E403,Failed
+2024-01-01 10:30:00,U010,User_10,Query Execution,Financial Dashboard,2176.0,17.57,2.62,,Failed
+2024-01-01 18:48:00,U001,User_1,Error,,,54.07,14.11,E404,Failed
+2024-01-01 16:11:00,U003,User_3,Error,,,15.12,14.95,E408,Failed
+2024-01-02 05:44:00,U006,User_6,Error,,,72.93,10.33,E403,Failed
+2024-01-01 08:59:00,U005,User_5,Export,Financial Dashboard,,68.41,6.25,E500,Failed
+2024-01-01 09:07:00,U002,User_2,Export,Marketing Insights,,60.26,13.34,E404,Failed
+2024-01-01 22:18:00,U001,User_1,Query Execution,User Activity,3528.0,12.03,6.9,,Success
+2024-01-01 16:01:00,U016,User_16,Export,Financial Dashboard,,33.34,12.3,,Failed
+2024-01-01 15:19:00,U015,User_15,Error,,,33.07,8.28,E500,Failed
+2024-01-01 11:02:00,U020,User_20,Query Execution,User Activity,855.0,86.04,12.78,E404,Failed
+2024-01-01 22:27:00,U017,User_17,View Report,User Activity,,32.61,5.87,,Success
+2024-01-01 08:33:00,U017,User_17,Login,,,30.01,8.09,,Failed
+2024-01-02 04:37:00,U020,User_20,Export,Financial Dashboard,,34.61,12.78,,Success
+2024-01-01 23:03:00,U019,User_19,Export,User Activity,,79.41,3.8,,Success
+2024-01-01 17:09:00,U012,User_12,Export,Sales Report,,49.86,7.57,,Success
+2024-01-01 10:39:00,U020,User_20,View Report,Financial Dashboard,,56.87,1.42,E500,Failed
+2024-01-02 04:23:00,U012,User_12,Export,Marketing Insights,,65.43,9.62,,Success
+2024-01-02 02:30:00,U002,User_2,Query Execution,Performance Metrics,4199.0,25.43,8.83,,Success
+2024-01-01 12:41:00,U011,User_11,Export,Sales Report,,59.95,9.81,,Failed
+2024-01-01 13:30:00,U014,User_14,Export,Financial Dashboard,,39.47,10.04,E403,Failed
+2024-01-01 12:51:00,U016,User_16,Export,Financial Dashboard,,41.28,1.19,E404,Failed
+2024-01-01 14:04:00,U011,User_11,View Report,Marketing Insights,,55.53,10.06,,Failed
+2024-01-02 07:30:00,U003,User_3,Error,,,89.49,9.39,E403,Failed
+2024-01-02 02:53:00,U015,User_15,Error,,,87.48,4.4,,Success
+2024-01-02 01:09:00,U010,User_10,Query Execution,Marketing Insights,3507.0,14.59,12.01,,Success
+2024-01-01 20:39:00,U004,User_4,Error,,,32.99,6.24,,Success
+2024-01-02 05:59:00,U017,User_17,Export,Financial Dashboard,,25.65,4.17,,Failed
+2024-01-01 20:02:00,U008,User_8,Query Execution,Marketing Insights,3649.0,23.87,12.03,,Success
+2024-01-01 11:35:00,U001,User_1,Export,Performance Metrics,,38.98,2.47,,Success
+2024-01-01 12:46:00,U014,User_14,Error,,,82.54,7.43,,Success
+2024-01-01 18:14:00,U001,User_1,Login,,,62.27,2.55,,Success
+2024-01-01 22:52:00,U010,User_10,View Report,Performance Metrics,,79.28,6.62,,Success
+2024-01-02 01:42:00,U001,User_1,View Report,User Activity,,51.22,9.04,,Failed
+2024-01-01 14:43:00,U020,User_20,Query Execution,Sales Report,197.0,45.38,8.58,,Success
+2024-01-01 18:35:00,U013,User_13,Login,,,66.76,10.04,,Success
+2024-01-01 13:33:00,U006,User_6,Error,,,22.43,7.0,,Success
+2024-01-02 05:42:00,U003,User_3,Export,Financial Dashboard,,68.53,5.76,,Success
+2024-01-01 18:24:00,U014,User_14,Export,Sales Report,,11.25,12.63,,Success
+2024-01-01 18:18:00,U014,User_14,View Report,Sales Report,,48.4,3.69,E404,Failed
+2024-01-01 23:31:00,U004,User_4,Query Execution,Marketing Insights,1584.0,59.62,2.6,,Success
+2024-01-02 06:07:00,U006,User_6,Query Execution,Performance Metrics,1939.0,13.75,6.26,E403,Failed
+2024-01-01 17:47:00,U008,User_8,Error,,,89.03,11.03,E408,Failed
+2024-01-02 05:03:00,U005,User_5,View Report,Sales Report,,46.08,11.87,,Success
+2024-01-01 21:52:00,U020,User_20,Export,Marketing Insights,,43.31,14.05,E403,Failed
+2024-01-01 23:51:00,U004,User_4,Error,,,20.51,3.75,E408,Failed
+2024-01-01 20:54:00,U007,User_7,Error,,,37.34,2.36,E404,Failed
+2024-01-01 21:12:00,U004,User_4,Query Execution,Sales Report,3146.0,46.16,12.84,E403,Failed
+2024-01-01 18:35:00,U010,User_10,Query Execution,User Activity,3001.0,25.68,9.77,,Success
+2024-01-02 04:37:00,U006,User_6,Query Execution,Sales Report,195.0,20.82,15.83,E404,Failed
+2024-01-01 20:00:00,U019,User_19,Query Execution,Financial Dashboard,1843.0,78.92,15.25,,Success
+2024-01-02 01:00:00,U010,User_10,Query Execution,Performance Metrics,1861.0,14.39,1.5,E404,Failed
+2024-01-02 04:37:00,U020,User_20,Error,,,54.9,13.48,E500,Failed
+2024-01-01 20:17:00,U001,User_1,Query Execution,User Activity,3431.0,53.94,2.6,,Success
+2024-01-02 05:39:00,U013,User_13,Error,,,37.68,12.97,,Success
+2024-01-01 20:04:00,U007,User_7,Error,,,58.73,1.44,E403,Failed
+2024-01-01 09:05:00,U003,User_3,Error,,,46.41,7.83,,Success
+2024-01-02 06:11:00,U019,User_19,Error,,,16.26,11.47,E403,Failed
+2024-01-01 10:51:00,U004,User_4,View Report,Performance Metrics,,59.38,14.58,E500,Failed
+2024-01-01 12:27:00,U015,User_15,Export,Performance Metrics,,10.13,2.88,,Success
+2024-01-01 20:48:00,U015,User_15,View Report,Financial Dashboard,,10.26,5.79,E403,Failed
+2024-01-01 20:17:00,U003,User_3,Error,,,22.44,11.76,E404,Failed
+2024-01-02 07:13:00,U013,User_13,Login,,,73.57,4.5,,Success
+2024-01-01 15:43:00,U014,User_14,Login,,,51.92,4.41,E404,Failed
+2024-01-01 08:36:00,U019,User_19,Error,,,76.96,11.47,,Failed
+2024-01-02 03:03:00,U006,User_6,Error,,,75.64,13.13,E403,Failed
+2024-01-01 22:50:00,U008,User_8,Error,,,83.77,9.57,E500,Failed
+2024-01-02 04:34:00,U011,User_11,Query Execution,Financial Dashboard,985.0,84.33,5.82,,Success
+2024-01-01 18:30:00,U018,User_18,View Report,User Activity,,61.33,8.78,E408,Failed
+2024-01-01 23:46:00,U004,User_4,View Report,Performance Metrics,,54.62,1.45,E408,Failed
+2024-01-01 22:17:00,U005,User_5,Export,User Activity,,24.49,5.68,,Failed
+2024-01-01 10:13:00,U017,User_17,Login,,,19.51,7.17,,Success
+2024-01-01 10:45:00,U017,User_17,Login,,,42.86,2.6,,Success
+2024-01-02 03:01:00,U011,User_11,Query Execution,Financial Dashboard,558.0,80.4,4.23,,Success
+2024-01-02 02:08:00,U006,User_6,Login,,,17.59,4.6,,Success
+2024-01-01 10:07:00,U011,User_11,Query Execution,User Activity,999.0,74.42,9.94,,Success
+2024-01-01 18:42:00,U005,User_5,Error,,,37.31,3.57,E408,Failed
