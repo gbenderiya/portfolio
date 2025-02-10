@@ -3,7 +3,7 @@
 
 This dataset tracks BI Platform Performance Logs, capturing system activity, user interactions, and error occurrences to monitor platform health and efficiency. It includes key performance indicators (KPIs) such as user activity, query execution time, system resource utilization, and error rates.
 
-This dataset contains a CSV table with 50,000+ records, each representing an individual system event.
+This dataset contains a CSV table with 500 records, each representing an individual system event.
 
 ## 💡 Highlights
 
@@ -20,10 +20,10 @@ Performed data preprocessing and transformation:
 - Categorized Action_Type for better filtering and aggregation.
 - Merged user details from the User Lookup Table to enrich analysis.
 
--📍 Clean Data: BI_Performance_Logs_Clean.csv
+📍 Clean Data: [BI_Performance_Logs_Clean.csv]()
 
 ## 📊 Visualization
-PowerBI
+[PowerBI]()
 ![image](https://github.com/user-attachments/assets/b40e3110-b201-4b45-8751-a2a6fdc88bf6)
 
 
