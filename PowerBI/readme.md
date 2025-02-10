@@ -1,4 +1,5 @@
 📌 About the Data
+
 This dataset tracks BI Platform Performance Logs, capturing system activity, user interactions, and error occurrences to monitor platform health and efficiency. It includes key performance indicators (KPIs) such as user activity, query execution time, system resource utilization, and error rates.
 
 This dataset contains a CSV table with 50,000+ records, each representing an individual system event.
