@@ -46,4 +46,4 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 ## PowerBI
 | Project Link                        | Description         | Dashboard Link |
 |---------------------------------|----------------------------------|---------------------------------|
-| **GeoVizualization**                 | |  |
+| **[BI Performance](PowerBI/readme.md)**                 |This project analyzes BI platform performance logs to track user activity, system performance, and error rates, enabling data-driven optimizations. It includes data preprocessing, KPI tracking, and interactive dashboards in Tableau/Power BI for real-time monitoring and insights.  |  |
